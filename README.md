@@ -70,3 +70,4 @@ Use subgraph with graphql to access data from the subgraph and display in the re
 12. Go back to Studio and copy the command for `auth and deploy`
 13. Once deployed, use remix to perform event based txn
 14. Visit your subgraph playground to interact with it.
+15. Publish it to the graph explorer to use it like the uniswap example used in the project.
