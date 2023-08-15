@@ -1,6 +1,6 @@
 # Getting Started
 
-- What is SubQuery?
+- What is SubQuery Network?
 
 SubQuery is an Open, Flexible, Fast and Universal data indexing framework for web3. It is a fast, flexible, and reliable open-source data indexer that provides custom APIs for web3 project across all of their supported chains.
 
